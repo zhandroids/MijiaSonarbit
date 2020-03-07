@@ -1,7 +1,7 @@
 {
     "name": "sonarbit",
     "version": "0.0.11",
-    "description": "Mijia sonarbit",
+    "description": "zhandroids sonarbit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -15,7 +15,5 @@
     "testFiles": [
         "tests.ts"
     ],
-    "public": true,
-    "license": "MIT"
-
+    "public": true
 }
