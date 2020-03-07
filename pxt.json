@@ -16,6 +16,6 @@
         "tests.ts"
     ],
     "public": true,
-     "preferredEditor": "tsprj"
+    "license": "MIT"
 
 }
