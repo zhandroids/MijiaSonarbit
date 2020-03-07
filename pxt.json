@@ -1,6 +1,6 @@
 {
     "name": "sonarbit",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "description": "Mijia sonarbit",
     "license": "MIT",
     "dependencies": {
@@ -8,11 +8,14 @@
     },
     "files": [
         "README.md",
-        "sonarbit.ts"
+        "sonarbit.ts",
+        "_locals/zh/sonarbit-jsdoc-strings.json",
+        "_locals/zh/sonarbit-strings.json"
     ],
     "testFiles": [
         "tests.ts"
     ],
     "public": true,
-    "installedVersion": "github:elecfreaks/pxt-sonarbit#v0.0.10"
+     "preferredEditor": "tsprj"
+
 }
