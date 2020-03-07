@@ -15,5 +15,7 @@
     "testFiles": [
         "tests.ts"
     ],
-    "public": true
+    "public": true,
+    "installedVersion": "github:elecfreaks/pxt-sonarbit#v0.0.10"
+
 }
