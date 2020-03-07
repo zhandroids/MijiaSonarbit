@@ -1,0 +1,8 @@
+{
+  "Distance_Unit.Distance_Unit_cm|block": "厘米",
+  "Distance_Unit.Distance_Unit_inch|block": "inch",
+  "Distance_Unit.Distance_Unit_mm|block": "毫米",
+  "sonarbit.sonarbit_distance|block": "超声波距离 in unit %distance_unit |at|pin %pin",
+  "sonarbit|block": "sonarbit",
+  "{id:category}Sonarbit": "超声波"
+}
